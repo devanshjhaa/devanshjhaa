@@ -7,7 +7,7 @@
 
 ```ts
 const devansh = {
-  education: "B.Tech CSE @ Manipal Institute of Technology (2027)",
+  education: "B.Tech CSE @ Manipal Institute of Technology ",
   focus: ["Backend Engineering", "System Design Fundamentals"],
 
   currentlyWorkingOn: [
